@@ -1,5 +1,9 @@
 # Python Integration to SAS Viya
-This repo contains a variety of presentations, workshops and blog posts on how to use the Python SWAT package in SAS Viya to use [Cloud Analytic Services (CAS server)](https://go.documentation.sas.com/doc/en/pgmsascdc/default/casfun/n00001sascassrvmgt00000admin.htm) for massively parallel processing on a distributed server.
+This repo contains a variety of presentations, workshops and blog posts on how to use the Python SWAT package in SAS Viya to use [Cloud Analytic Services (CAS server)](https://go.documentation.sas.com/doc/en/pgmsascdc/default/casfun/n00001sascassrvmgt00000admin.htm) for massively parallel processing.
+
+- [Python SWAT package documentation](https://sassoftware.github.io/python-swat/getting-started.html) 
+- [Python SWAT GitHub page](https://github.com/sassoftware/python-swat)
+- [CAS Action documentation](https://go.documentation.sas.com/doc/en/pgmsascdc/default/allprodsactions/actionsByName.htm). All CAS actions can be used as methods in the SWAT package.
 
 ## Ask the Expert - How do I used Python in SAS Viya
 This is an Ask the Expert presentation I did. You can sign up to [watch the onDemand recording](https://www.sas.com/en_us/webinars/use-python-in-sas-viya.html).
@@ -21,8 +25,10 @@ You will learn:
 - Create a dashboard using SAS Visual Analytics
 
 ## Programmers Week 2020 Python Workshop
+Python SWAT package workshop.
 
 ## Programmers Week 2021 Python Workshop
+Python SWAT package workshop.
 
 ## Python Blog Series
 You can find all of my notebooks for my [Getting Started with Python Integration to SAS® Viya® - Index](Getting Started with Python Integration to SAS® Viya® - Index) here. The posts show how to use the Python SWAT package to process data in SAS Viya's massively parallel processing environment, Cloud Analytics Services (CAS Server).
