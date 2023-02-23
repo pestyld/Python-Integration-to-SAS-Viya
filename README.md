@@ -17,6 +17,9 @@ You will learn:
 - How to visualize data in Viya using Python.   
 
 ## Azure Marketplace Getting Started with Python SWAT
+Getting started with the Python SWAT package in SAS Viya. A quick introduction into accessing, exploring, preparing and analyzing data in the Cloud Analytic Services (CAS Server) massively parallel processing environment. 
+
+YouTube video release coming shortly.
 
 ## Buffalo State SAS Viya Presentation 2023
 (in progress). Will be presenting at the [Buffalo State data science seminar series](https://go.documentation.sas.com/doc/en/pgmsascdc/v_036/casfun/n00001sascassrvmgt00000admin.htm). This presentation is titled **The Best of Both Worlds: Analytics with SAS(R) Viya(R) and Python**. By the end of the presentation you will:
@@ -31,7 +34,9 @@ Python SWAT package workshop.
 Python SWAT package workshop.
 
 ## Python Blog Series
-You can find all of my notebooks for my [Getting Started with Python Integration to SAS® Viya® - Index](Getting Started with Python Integration to SAS® Viya® - Index) here. The posts show how to use the Python SWAT package to process data in SAS Viya's massively parallel processing environment, Cloud Analytics Services (CAS Server).
+You can find all of my notebooks for my [Getting Started with Python Integration to SAS® Viya® - Index](https://blogs.sas.com/content/sgf/2020/06/19/getting-started-with-python-integration-to-sas-viya-index/) here. 
+
+The posts show how to use the Python SWAT package to process data in SAS Viya's massively parallel processing environment, Cloud Analytics Services (CAS Server).
 
 ## SAS Explore 2022 - Using Python for Data Analytics in SAS Viya
 My presentation for SAS Explore. You an view the presentation on [YouTube](https://www.youtube.com/watch?v=skd9-it5NPU).
