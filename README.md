@@ -3,7 +3,7 @@ This repo contains a variety of presentations, workshops and blog posts on how t
 
 - [Python SWAT package documentation](https://sassoftware.github.io/python-swat/getting-started.html) 
 - [Python SWAT GitHub page](https://github.com/sassoftware/python-swat)
-- [CAS Action documentation](https://go.documentation.sas.com/doc/en/pgmsascdc/default/allprodsactions/actionsByName.htm). All CAS actions can be used as methods in the SWAT package.
+- [CAS Action documentation](https://go.documentation.sas.com/doc/en/pgmsascdc/default/allprodsactions/actionsByName.htm). All CAS actions can be used as methods in the SWAT package. Check out my blog series [CAS Action! - a series on fundamentals](https://blogs.sas.com/content/sgf/2021/08/06/cas-action-a-series-on-fundamentals/) to learn more about using CAS actions. This blog series using the CAS language to execute CAS actions, but you can execute these in the Python SWAT package with some slight modification to the syntax.
 
 ## Ask the Expert - How do I used Python in SAS Viya
 This is an Ask the Expert presentation I did. You can sign up to [watch the onDemand recording](https://www.sas.com/en_us/webinars/use-python-in-sas-viya.html).
