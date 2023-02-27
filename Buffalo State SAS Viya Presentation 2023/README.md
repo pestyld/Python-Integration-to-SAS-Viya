@@ -8,9 +8,11 @@ You can use SAS Viya for Learners to follow along and get access to SAS Viya.
 1. Sign up for [SAS Viya for Learners](https://www.sas.com/en_us/software/viya-for-learners.html) for free
 2. Launch SAS Viya for Learners
 3. Select the JupyterLab icon at the bottom of the screen.
+
 ![JupyterLab](https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/Buffalo%20State%20SAS%20Viya%20Presentation%202023/images/JupyterLabIcon.png)
 4. Download the [BuffaloStatePythonPresentation_2023.ipynb](https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/Buffalo%20State%20SAS%20Viya%20Presentation%202023/BuffaloStatePythonPresentation_2023.ipynb) notebook
 5. Upload the notebook to the JupyterLab server.
+
 ![JupyterLab](https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/Buffalo%20State%20SAS%20Viya%20Presentation%202023/images/UploadNotebook.png?raw=true)
 
 ## Sign up for Handshake to connect with employers
@@ -24,6 +26,7 @@ Check out the [Early Career Talent One-Page](https://github.com/pestyld/Python-I
 - More career opportunities
 - Higher salaries
 - Ongoing skills development
+
 Check out the [Skill Builder for Students](https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/Buffalo%20State%20SAS%20Viya%20Presentation%202023/SAS%20Skill%20Builder%20for%20Students%20One-Pager.pdf) file for more information.
 
 ## Get Certified
