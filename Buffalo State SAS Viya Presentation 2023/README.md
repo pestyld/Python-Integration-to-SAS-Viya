@@ -5,7 +5,8 @@
 
 ## How to follow along with the workshop:
 You can use SAS Viya for Learners to follow along and get access to SAS Viya.
-1. Sign up for [SAS Viya for Learners](https://www.sas.com/en_us/software/viya-for-learners.html) for free
+1. Sign up for <a href="https://www.sas.com/en_us/software/viya-for-learners.html" target="_blank">SAS Viya for Learners</a> for free
+
 
 2. Launch SAS Viya for Learners
 
@@ -13,7 +14,7 @@ You can use SAS Viya for Learners to follow along and get access to SAS Viya.
 
 ![JupyterLab](https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/Buffalo%20State%20SAS%20Viya%20Presentation%202023/images/JupyterLabIcon.png)
 
-4. Download the [BuffaloStatePythonPresentation_2023.ipynb](https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/Buffalo%20State%20SAS%20Viya%20Presentation%202023/BuffaloStatePythonPresentation_2023.ipynb) notebook
+4. Download the <a href="https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/Buffalo%20State%20SAS%20Viya%20Presentation%202023/BuffaloStatePythonPresentation_2023.ipynb" target="_blank">BuffaloStatePythonPresentation_2023.ipynb</a> notebook.
 
 5. Upload the notebook to the JupyterLab server.
 
