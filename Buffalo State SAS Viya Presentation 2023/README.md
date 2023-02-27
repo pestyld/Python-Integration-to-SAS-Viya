@@ -3,7 +3,7 @@
 - Integrate Python and SAS Viya to process data throughout the analytics life cycle
 - Create a dashboard using SAS Visual Analytics
 
-## How to follow along:
+## How to follow along with the workshop:
 You can use SAS Viya for Learners to follow along and get access to SAS Viya.
 1. Sign up for [SAS Viya for Learners](https://www.sas.com/en_us/software/viya-for-learners.html) for free
 2. Launch SAS Viya for Learners
@@ -11,6 +11,7 @@ You can use SAS Viya for Learners to follow along and get access to SAS Viya.
 ![JupyterLab](https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/Buffalo%20State%20SAS%20Viya%20Presentation%202023/images/JupyterLabIcon.png)
 4. Download the [BuffaloStatePythonPresentation_2023.ipynb](https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/Buffalo%20State%20SAS%20Viya%20Presentation%202023/BuffaloStatePythonPresentation_2023.ipynb) notebook
 5. Upload the notebook to the JupyterLab server.
+![JupyterLab](https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/Buffalo%20State%20SAS%20Viya%20Presentation%202023/images/UploadNotebook.png?raw=true)
 
 ## Sign up for Handshake to connect with employers
 Check out the [Early Career Talent One-Page](https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/Buffalo%20State%20SAS%20Viya%20Presentation%202023/Early%20Career%20Talent%20One-Pager.pdf) file for more information.
@@ -24,3 +25,9 @@ Check out the [Early Career Talent One-Page](https://github.com/pestyld/Python-I
 - Higher salaries
 - Ongoing skills development
 Check out the [Skill Builder for Students](https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/Buffalo%20State%20SAS%20Viya%20Presentation%202023/SAS%20Skill%20Builder%20for%20Students%20One-Pager.pdf) file for more information.
+
+## Get Certified
+For more information on SAS certification, check out the [Certification One-Pager](https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/Buffalo%20State%20SAS%20Viya%20Presentation%202023/Certification%20One-Pager.pdf).
+
+## SAS Software for Learning
+Check out the [SAS Software for Learning](https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/Buffalo%20State%20SAS%20Viya%20Presentation%202023/SAS%20Software%20for%20Learning%20Comparison.pdf) for more information about getting access to SAS software.
