@@ -21,7 +21,7 @@ You can use SAS Viya for Learners to follow along and get access to SAS Viya.
 ![JupyterLab](https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/Buffalo%20State%20SAS%20Viya%20Presentation%202023/images/UploadNotebook.png?raw=true)
 
 ## Early Career Programs as SAS
-SAS offers a [Technical Tnablement Academy](https://www.sas.com/en_us/careers/students-and-graduates/sas-academy.html#technical-enablement-academy). An extensive training program is designed to transfer knowledge of SAS products and necessary resources to prepare you for your career at SAS. Our full-time, paid roles are designed to bridge the gap between academic life and your first role at SAS.
+SAS offers a [Technical Enablement Academy](https://www.sas.com/en_us/careers/students-and-graduates/sas-academy.html#technical-enablement-academy). An extensive training program is designed to transfer knowledge of SAS products and necessary resources to prepare you for your career at SAS. Our full-time, paid roles are designed to bridge the gap between academic life and your first role at SAS.
 
 ## Sign up for Handshake to connect with employers
 Check out the [Early Career Talent One-Page](https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/Buffalo%20State%20SAS%20Viya%20Presentation%202023/Early%20Career%20Talent%20One-Pager.pdf) file for more information.
