@@ -5,7 +5,7 @@ This repo contains a variety of presentations, workshops and blog posts on how t
 - [Python SWAT GitHub page](https://github.com/sassoftware/python-swat)
 - [CAS Action documentation](https://go.documentation.sas.com/doc/en/pgmsascdc/default/allprodsactions/actionsByName.htm). All CAS actions can be used as methods in the SWAT package. Check out my blog series [CAS Action! - a series on fundamentals](https://blogs.sas.com/content/sgf/2021/08/06/cas-action-a-series-on-fundamentals/) to learn more about using CAS actions. This blog series using the CAS language to execute CAS actions, but you can execute these in the Python SWAT package with some slight modification to the syntax.
 
-## Ask the Expert - How do I used Python in SAS Viya
+## Ask the Expert 2022 - How do I used Python in SAS Viya
 This is an Ask the Expert presentation I did. You can sign up to [watch the onDemand recording](https://www.sas.com/en_us/webinars/use-python-in-sas-viya.html).
 
 Join this webinar to learn how to process, analyze and visualize data using the Python SWAT package in SAS Viya. The webinar will introduce the fundamentals of SAS Viya and Cloud Analytic Services, or the CAS Server. We will explain why you would want to use the CAS Server and Python together. We’ll also cover how SAS, using the SWAT package, blends the world of Pandas and SAS Viya to help you derive insights and solve big analytical questions.
@@ -14,7 +14,20 @@ You will learn:
 - Why you should use SAS Viya and Python.
 - How to access data in Viya using Python and the SWAT package.
 - How to process and analyze data using the Pandas API in the SWAT package.
-- How to visualize data in Viya using Python.   
+- How to visualize data in Viya using Python.
+
+## Ask the Expert 2023 - How can I Integrate SAS® and Open Source for Analytics and Machine Learning?
+[Watch the onDemand recording](https://www.sas.com/en_us/webinars/integrate-sas-open-source.html).
+
+SAS Viya provides many integration points with open source for data preparation, model development and model deployment for users in different roles along the analytics life cycle.
+
+We will show you how, through a use case starting with raw data, you can use Viya and open source together to create and deploy superior models to drive your organizational goals.
+
+You will learn about:
+- How Viya was designed to integrate with open source languages and packages to enable development and deployment of superior models for your organization.
+- The key integration points between Viya and open source.
+- How open source developers can take advantage of the massively parallel processing Cloud Analytics Services in-memory engine of Viya to speed model development against large data.
+
 
 ## Azure Marketplace Getting Started with Python SWAT
 Getting started with the Python SWAT package in SAS Viya. A quick introduction into accessing, exploring, preparing and analyzing data in the Cloud Analytic Services (CAS Server) massively parallel processing environment. 
