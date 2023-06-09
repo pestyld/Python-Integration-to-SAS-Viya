@@ -1,6 +1,5 @@
 # Python Integration to SAS Viya
 This repo contains a variety of presentations, workshops and blog posts on how to use the Python SWAT package in SAS Viya to use [Cloud Analytic Services (CAS server)](https://go.documentation.sas.com/doc/en/pgmsascdc/default/casfun/n00001sascassrvmgt00000admin.htm) for massively parallel processing.
-
 - [Python SWAT package documentation](https://sassoftware.github.io/python-swat/getting-started.html) 
 - [Python SWAT GitHub page](https://github.com/sassoftware/python-swat)
 - [CAS Action documentation](https://go.documentation.sas.com/doc/en/pgmsascdc/default/allprodsactions/actionsByName.htm). All CAS actions can be used as methods in the SWAT package. Check out my blog series [CAS Action! - a series on fundamentals](https://blogs.sas.com/content/sgf/2021/08/06/cas-action-a-series-on-fundamentals/) to learn more about using CAS actions. This blog series using the CAS language to execute CAS actions, but you can execute these in the Python SWAT package with some slight modification to the syntax.
