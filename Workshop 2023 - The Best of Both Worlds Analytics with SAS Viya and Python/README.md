@@ -7,7 +7,6 @@
 You can use SAS Viya for Learners to follow along and get access to SAS Viya.
 1. Sign up for <a href="https://www.sas.com/en_us/software/viya-for-learners.html" target="_blank">SAS Viya for Learners</a> for free. **A university email is required for access.**
 
-
 2. Launch SAS Viya for Learners
 
 3. Select the JupyterLab icon at the bottom of the screen.

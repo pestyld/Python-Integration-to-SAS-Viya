@@ -33,7 +33,7 @@ Getting started with the Python SWAT package in SAS Viya. A quick introduction i
 
 YouTube video release coming shortly.
 
-## Buffalo State SAS Viya Presentation 2023
+## Workshop 2023 - The Best of Both Worlds: Analytics with SAS(R) Viya(R) and Python
 (in progress). Will be presenting at the [Buffalo State data science seminar series](https://go.documentation.sas.com/doc/en/pgmsascdc/v_036/casfun/n00001sascassrvmgt00000admin.htm). This presentation is titled **The Best of Both Worlds: Analytics with SAS(R) Viya(R) and Python**. By the end of the presentation you will:
 - Understand the massively parallel processing capabilities in SAS Viya
 - Integrate Python and SAS Viya to process data throughout the analytics life cycle
