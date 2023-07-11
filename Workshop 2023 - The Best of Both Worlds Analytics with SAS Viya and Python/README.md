@@ -11,9 +11,9 @@ You can use SAS Viya for Learners to follow along and get access to SAS Viya.
 
 3. Select the JupyterLab icon at the bottom of the screen.
 
-![JupyterLab](https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/Buffalo%20State%20SAS%20Viya%20Presentation%202023/images/JupyterLabIcon.png)
+![JupyterLab](https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/images/VFL01_JupyterLabIcon.png)
 
-4. Download the <a href="https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/Buffalo%20State%20SAS%20Viya%20Presentation%202023/BuffaloStatePythonPresentation_2023.ipynb" target="_blank">BuffaloStatePythonPresentation_2023.ipynb</a> notebook.
+4. Download the <a href="https://github.com/pestyld/Python-Integration-to-SAS-Viya/blob/master/Workshop%202023%20-%20The%20Best%20of%20Both%20Worlds%20Analytics%20with%20SAS%20Viya%20and%20Python/Analytics_with_SAS_Viya_and_Python.ipynb" target="_blank">Analytics_with_SAS_Viya_and_Python.ipynb</a> notebook.
 
 5. Upload the notebook to the JupyterLab server.
 
