@@ -1,4 +1,4 @@
-# Buffalo State Presentation: The Best of Both Worlds: Analytics with SAS(R) Viya(R) and Python
+# The Best of Both Worlds: Analytics with SAS(R) Viya(R) and Python
 - Understand the massively parallel processing capabilities in SAS Viya
 - Integrate Python and SAS Viya to process data throughout the analytics life cycle
 - Create a dashboard using SAS Visual Analytics
