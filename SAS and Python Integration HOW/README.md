@@ -1,6 +1,6 @@
 # Hands on Workshop: SAS and Python Integration (~3 Hours)
 
-Learn how to use Python with SAS Viya via SWAT, the SAS Wrapper for Analytics Transfer. This allows you to use Python syntax combined with the distributed processing power of SAS Viya! This workshop will take approximately 3 hours.
+Learn how to use Python with SAS Viya via SWAT, the SAS Wrapper for Analytics Transfer. This allows you to use Python syntax combined with the distributed processing power of SAS Viya! This workshop will take **approximately 3 hours**.
 
 This project contains three Jupyter notebooks:
 - **SAS_Python_integration_workshop** - This notebook is used for workshops. No output is shown.

@@ -1,9 +1,13 @@
 # The Best of Both Worlds: Analytics with SAS(R) Viya(R) and Python
+
 - Understand the massively parallel processing capabilities in SAS Viya
 - Integrate Python and SAS Viya to process data throughout the analytics life cycle
 - Create a dashboard using SAS Visual Analytics
 
 Approximately 1 hour workshop
+
+## Summary
+This workshop access the a CSV file and loads it into the distributed CAS server and performs a general ETL flow of the data. The data comes from the **Samples** caslib.
 
 ## How to follow along with the workshop:
 
